@@ -16,18 +16,18 @@ I'm a **freelance developer** in career transition, passionate about building di
 
 ---
 
-## 🛠️ Featured Project
-
-### [manuals-pemt](https://github.com/Jeff-Nas/manuals-pemt)
-A project that gathers the main manuals from JLG, making them easily accessible for technicians on mobile devices. Designed to streamline daily tasks in the field by putting essential information at your fingertips.
-
----
-
 ## 💡 About Me
 
 I've always been drawn to technology, and my background in Mechatronics gave me a strong analytical and innovative perspective. My transition to Web Development was fueled by a desire to create websites that truly mattered in my daily work—and as new ideas kept emerging, I realized it was the perfect opportunity to embrace the technologies shaping our future.
 
 Today, I dedicate myself fully to Front-End, diving deep into React and Tailwind to create applications that are not only functional but delightful to use. For me, success comes from understanding user needs and delivering solutions that generate real value.
+
+---
+
+## 🛠️ Featured Project
+
+### [manuals-pemt](https://github.com/Jeff-Nas/manuals-pemt)
+A project that gathers the main manuals from JLG, making them easily accessible for technicians on mobile devices. Designed to streamline daily tasks in the field by putting essential information at your fingertips.
 
 ---
 
