@@ -31,6 +31,26 @@ A project that gathers the main manuals from JLG, making them easily accessible 
 
 ---
 
+### 📂 Featured Repositories
+
+#### ✅ [Fokus](https://jeff-nas.github.io/Projeto-Fokus/)
+> A to-do list app with a built-in timer based on the Pomodoro technique.
+
+- 🎯 **Features**: Add, remove, and complete tasks, with time tracking per session
+- 🧠 **Learnings**: DOM manipulation, JavaScript events, and use of localStorage
+- 🛠️ **Technologies**: HTML, CSS, JavaScript
+
+---
+
+#### 📚 [Alura Books](https://jeff-nas.github.io/AluraBook/)
+> An e-commerce site for AluraBooks, a tech-focused online bookstore. Designed to be responsive across mobile, tablet, and desktop.
+
+- 📱 **Goal**: Practice mobile-first development, responsive layouts, and clean UI structure
+- 🧠 **Learnings**: Grid, Flexbox, responsiveness, and carousels with SwiperJS
+- 🛠️ **Technologies**: HTML, CSS, SwiperJS
+
+---
+
 ## 🌱 Outside Coding
 
 When I'm not coding, you’ll find me:
