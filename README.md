@@ -26,9 +26,10 @@ Today, I dedicate myself fully to Front-End, diving deep into React and Tailwind
 
 ## 🛠️ Featured Project
 
-### [Manuasls PEMT](https://github.com/Jeff-Nas/ManuaisPEMT))
+### [Manuasls PEMT](https://github.com/Jeff-Nas/ManuaisPEMT)
 A project that gathers the main manuals from JLG, making them easily accessible for technicians on mobile devices. Designed to streamline daily tasks in the field by putting essential information at your fingertips.
 
+#### 🌐 [production](https://maquinaspemt.com.br/)
 ---
 
 ### 📂 Featured Repositories
